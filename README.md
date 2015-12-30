@@ -6,5 +6,5 @@ For the compocase and more info, check out [https://github.com/sandsmark/kart](h
 ### How to Run:
 `python tombabot.py [ip or host] [port]`
 
-> Standard host is "localhost"
-> Standard port is 31337
+> Standard host is "localhost". <br>
+> Standard port is 31337.
